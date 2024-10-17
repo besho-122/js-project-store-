@@ -1,0 +1,19 @@
+@import "./base.css";
+ .category {
+background-color: #8f8d8d;
+width: 25%;
+padding: 20px;
+box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+margin: 10px;
+text-align: center;
+border-radius: 20px;
+ }
+.product{
+background-color: #8f8d8d;
+width: 25%;
+padding: 20px;
+box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+margin: 10px;
+text-align: center;
+border-radius: 20px;
+ }
